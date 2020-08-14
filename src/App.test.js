@@ -12,6 +12,6 @@ container.queryByLabelText('input[name="firstName"]')
 container.queryByLabelText('input[name="lastname"]')
 container.queryByLabelText('input[name="email"]')
 container.queryByLabelText('input[name="message"]')
-
+container.queryByLabelText('input[type="submit"]')
 
 });
